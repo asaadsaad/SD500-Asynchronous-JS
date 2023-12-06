@@ -1,5 +1,5 @@
 # SD500-Asynchronous-JS
-## Exercise 01
+## Coding Exercise 01
 Implement the code for `AsyncArray` class to be used as follows:
 ```typescript
 console.log(`Start`);
@@ -12,7 +12,7 @@ console.log(`End`);
 // hello
 // async
 ```
-## Exercise 02
+## Coding Exercise 02
 Implement the code for `Meditation` class to be used as follows:
 ```typescript
 const morning_meditation = new Meditation(5);
